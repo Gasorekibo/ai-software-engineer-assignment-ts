@@ -58,6 +58,30 @@ Create `EXPLANATION.md` (max 250 words) containing:
 - **Why does your fix solve it?**
 - **One realistic case / edge case your tests still don’t cover**
 
+## How to run the tests
+
+### Locally
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Run tests:
+   ```bash
+   npm test
+   ```
+
+### With Docker
+
+1. Build the image:
+   ```bash
+   docker build -t assignment-ts .
+   ```
+2. Run the tests in a container:
+   ```bash
+   docker run assignment-ts
+   ```
+
 ## Submission
 
 - Submit a public GitHub repository URL containing your solution to the Google form link provided.

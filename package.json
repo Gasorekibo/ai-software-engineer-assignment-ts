@@ -1,0 +1,27 @@
+{
+  "name": "ai-software-engineer-assignment-ts",
+  "version": "1.0.0",
+  "description": "This assignment evaluates your ability to:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3",
+    "vitest": "2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gasorekibo/ai-software-engineer-assignment-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gasorekibo/ai-software-engineer-assignment-ts/issues"
+  },
+  "homepage": "https://github.com/Gasorekibo/ai-software-engineer-assignment-ts#readme"
+}
